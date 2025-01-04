@@ -23,7 +23,7 @@ const navigate = useNavigate()
   return (
     <form
       onSubmit={handleSubmit}
-      className="bg-purple-800 text-white p-6 rounded-md max-w-sm mx-auto mt-10 shadow-lg"
+      className="bg-purple-800 text-black p-6 rounded-md max-w-sm mx-auto mt-10 shadow-lg"
     >
       <h2 className="text-2xl font-bold mb-4 text-center">Login</h2>
       <input
